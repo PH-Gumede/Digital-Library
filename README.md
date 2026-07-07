@@ -20,13 +20,13 @@ A C++/Qt6 desktop application for cataloguing, sorting, filtering, and validatin
 
 ## Features
 
-- 📚 **Journal reference table** — Author, Year, Title, Journal, Volume, Issue, and Pages columns, pre-populated with 15 realistic sample references spanning multiple academic fields.
-- 🔃 **Click-to-sort columns** — clicking any column header sorts the table by that field, using the underlying data (not just the displayed text).
-- 🔍 **Column-targeted wildcard search** — filter the table by Author, Year, Title, Journal, Volume, or Issue via a dropdown plus a search box.
-- ✅ **Regex-validated input** — Author, Title, Journal, and Pages fields reject invalid input as it's typed, both in the entry form *and* when editing a cell directly in the table.
-- 🎨 **Age-based row highlighting** — rows automatically colour-code by how recent the reference is (red for old, green for recent).
-- ➕➖ **Add / Remove rows** — add a new validated reference or remove the currently selected row.
-- 🧽 **Reset** — clears all form fields and the active filter in one action.
+-  **Journal reference table** — Author, Year, Title, Journal, Volume, Issue, and Pages columns, pre-populated with 15 realistic sample references spanning multiple academic fields.
+-  **Click-to-sort columns** — clicking any column header sorts the table by that field, using the underlying data (not just the displayed text).
+-  **Column-targeted wildcard search** — filter the table by Author, Year, Title, Journal, Volume, or Issue via a dropdown plus a search box.
+-  **Regex-validated input** — Author, Title, Journal, and Pages fields reject invalid input as it's typed, both in the entry form *and* when editing a cell directly in the table.
+-  **Age-based row highlighting** — rows automatically colour-code by how recent the reference is (red for old, green for recent).
+-  **Add / Remove rows** — add a new validated reference or remove the currently selected row.
+-  **Reset** — clears all form fields and the active filter in one action.
 
 ## Screenshots / Demo
 
